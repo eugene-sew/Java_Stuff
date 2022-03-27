@@ -1,0 +1,13 @@
+
+            //PreparedStatement statement = con.prepareStatement("insert into  registration(fname,lname,email,password,date_of_birth,gender,department)values (?,?,?,?,?,?,?)");
+//            statement.setString(1,fname);
+//            statement.setString(2,lname);
+//            statement.setString(3,email);
+//            statement.setString(4,password);
+//            statement.setString(5,dob.toString());
+//            statement.setString(6,gender);
+//            statement.setString(7,department);
+
+
+ // = statement.executeQuery("insert into  registration(fname,lname,email,password,gender,department,date_of_birth)values (?,?,?,?,?,?,?)");
+//            System.out.println("insert into  registration(fname,lname,email,password,date_of_birth,gender,department)values"+"('"+fname+"','"+lname+"','"+email+"','"+password+"','"+dob+"','"+gender+"','"+department+"')");
